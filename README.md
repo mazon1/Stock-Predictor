@@ -13,7 +13,9 @@ AWS EC2 Instance
 Dependencies Installed:
 
 Basic data manipulation and plotting: pandas matplotlib
+
 Data and modeling: yfinance pystan prophet joblib
+
 Advanced visualization plotly
 
 # Installation
